@@ -25,10 +25,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    [Basics run];
+//    [Basics run];
     //[Optionals run];
     //[Strings run];
-    //[Collections run];
+    [Collections run];
     //[Functions run];
     //[Closures run];
     //[Enums run];
